@@ -1,5 +1,5 @@
 👋 Hi, I’m Jan-Peter Muller at the Mullard Space Science Laboratory, Dept. of Space & Climate Physics at University College London (UCL-MSSL)
-👀 I’m interested in finding future collaborators in imagign applied to global Earth imaging and the 3D mapping of other planets.
+👀 I’m interested in finding future collaborators in imaging applied to global Earth imaging and the 3D mapping of other planets.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 📫 You can reach me via my address at j.muller AT ucl.ac.uk
